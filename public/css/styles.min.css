@@ -164,9 +164,17 @@ button:disabled {
 
 .Chat-Message-Wrap{
   margin-top: 1%;
-  padding: 0.5%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  padding-left: 1%;
+  padding-right: 1%;
+  width:fit-content; 
+  width:-webkit-fit-content; 
+  width:-moz-fit-content;
   border: 0px solid black;
-  border-radius: 10px;
+  border-radius: 50px;
+  background: #333744;
+  color: white;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 .Chat-Message-Wrap>p{
