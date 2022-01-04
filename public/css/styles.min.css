@@ -161,3 +161,14 @@ button:disabled {
 #send-location{
     border-radius: 7px;
 }
+
+.Chat-Message-Wrap{
+  margin-top: 1%;
+  padding: 0.5%;
+  border: 0px solid black;
+  border-radius: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.Chat-Message-Wrap>p{
+  margin-left: 1%;
+}
